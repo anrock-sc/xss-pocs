@@ -1,1 +1,1 @@
-alert('xss');
+document.onload = function(){alert(1);};
